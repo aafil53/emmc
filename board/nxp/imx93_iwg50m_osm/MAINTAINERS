@@ -1,0 +1,7 @@
+i.MX93 IWG50M OSM BOARD
+M:	iWave Systems Technologies Pvt Ltd. <support.telematics@iwave-global.com>
+S:	Maintained
+F:	board/nxp/imx93_iwg50m_osm/
+F:	include/configs/imx93_iwg50m_osm.h
+F:	configs/imx93_iwg50m_osm_defconfig
+F:	arch/arm/dts/imx93-iwg50m-osm.dts
